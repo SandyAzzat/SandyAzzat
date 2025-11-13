@@ -1,34 +1,86 @@
 <div align="center">
-  
-# Hi there, I'm Sandy Azzat
-  
-Fullstack Web Developer | MERN & MEAN Stack
+
+# Hi there, I'm **Sandy Azzat**
+### Fullstack Web Developer | MERN & MEAN Stack
 
 </div>
 
-## 🛠 Technologies & Skills
+---
 
-<p align="center">
+## Tech Stack
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
+---
 
-## 📂 Projects
-- **Course Management API** – RESTful API to manage courses, students, and instructors  
-- **Bookstore MERN App** – Fullstack app with CRUD and authentication  
-- **Furniture MEAN App** – Fullstack furniture store application with Angular front-end
+## Projects
 
-## 📫 Connect with me
-<a href="https://www.linkedin.com/in/sandy-azzat" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- **Course Management API** – A RESTful API to manage courses, students, and instructors
+- **Giftshop Fullstack App** – A fullstack e-commerce platform with a React frontend for managing gifts, orders, and customers
+- **Movie App** – A fullstack web application with a React frontend, featuring search, favorites, and authentication  
+- **Bookstore MERN App** – A fullstack web application with a React frontend, CRUD functionality, and authentication  
+- **Furniture MEAN App** – A fullstack furniture store application with an Angular frontend    
+
+---
+
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sandy-azzat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandyazzat&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sandyazzat&theme=vision-friendly-dark&hide_border=false" height="165" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyazzat&theme=vision-friendly-dark&layout=compact&v=2" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sandyazzat&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## Top Contributed Repos
+
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=sandyazzat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
