@@ -48,7 +48,7 @@
 ---
 
 ## Projects
-
+**You will find me in every project I build.**
 | Project | Tech Stack |
 |----------|------------|
 | E-Tour Guide Platform | React, Node.js, MongoDB, Stripe |
